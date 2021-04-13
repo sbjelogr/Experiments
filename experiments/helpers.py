@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import logging
 
-from mlxtend.feature_selection import ColumnSelector
+# from mlxtend.feature_selection import ColumnSelector
 from sklearn.pipeline import make_pipeline
 from sklearn.pipeline import Pipeline
 from sklearn.pipeline import FeatureUnion
